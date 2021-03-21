@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="KM">
+    <output-path>$PROJECT_DIR$/out/artifacts/KM</output-path>
+    <root id="root">
+      <element id="archive" name="KM.jar">
+        <element id="module-output" name="MilesKilometers" />
+      </element>
+    </root>
+  </artifact>
+</component>
